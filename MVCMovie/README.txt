@@ -80,3 +80,48 @@ VS Community 2022 17.12.0
 - Check the code in browser
 1017
 - Web app runs successfully
+
+2025-01-28
+1448
+- Modifying the Index Method in MoviesController
+1455
+- Run the modify code and check is that works or not, it's working successfully
+1457
+- Modifying the Index Method in MoviesController (Change searchString to id)
+1459
+- testing url: https://localhost:7257/Movies/Index/ghost
+- Run the modify code and check is that works or not, it's working successfully
+1503
+- Modifying the Index Method in MoviesController (Change id to searchString)
+1505
+- Modifying the Index View of Movies (added form field)
+1510
+- Run the modify code and check is that works or not, it's working successfully
+1511
+- Added new HttpPost Method in MoviesController
+1515
+- Run the modify code and check is that works or not, it's working successfully
+1518
+- Modifying the Index View of Movies  
+1519
+- Run the modify code and check is that works or not, it's working successfully
+1521
+- New Model Created [MovieGenre]
+1527
+- Modifying the Index Method in MoviesController (Generic Query added)
+1530
+- Adding the import model in Index view file and also changes if form fields (option menu adding[Select])
+1535
+- Run the modify code and check is that works or not, it's working successfully
+
+2025-01-29
+0839
+- Modify the Movie Model
+0854
+- Adding the Rating Field in Index,Edit,Create,Delete,Details
+0912
+- Updating The Table
+0922
+- 20250129142029_Rating migration runs successfully
+0955
+- Run the modify code and check is that works or not, it's working successfully
