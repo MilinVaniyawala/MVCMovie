@@ -130,3 +130,76 @@
 
 ### 1017  
 - Web application runs successfully 🎉
+
+---
+
+**Date:** 2025-01-28  
+
+---
+
+### 1448  
+- Modifying the `Index` Method in `MoviesController`  
+
+### 1455  
+- Run the modified code and check if it works – ✅ *Success*  
+
+### 1457  
+- Modifying the `Index` Method in `MoviesController` *(Change `searchString` to `id`)*  
+
+### 1459  
+- Testing URL: [`https://localhost:7257/Movies/Index/ghost`](https://localhost:7257/Movies/Index/ghost)  
+  - Run the modified code and check if it works – ✅ *Success*  
+
+### 1503  
+- Modifying the `Index` Method in `MoviesController` *(Change `id` back to `searchString`)*  
+
+### 1505  
+- Modifying the `Index` View of Movies *(Added form field)*  
+
+### 1510  
+- Run the modified code and check if it works – ✅ *Success*  
+
+### 1511  
+- Added new `HttpPost` Method in `MoviesController`  
+
+### 1515  
+- Run the modified code and check if it works – ✅ *Success*  
+
+### 1518  
+- Modifying the `Index` View of Movies  
+
+### 1519  
+- Run the modified code and check if it works – ✅ *Success*  
+
+### 1521  
+- New Model Created: `MovieGenre`  
+
+### 1527  
+- Modifying the `Index` Method in `MoviesController` *(Generic Query added)*  
+
+### 1530  
+- Importing the model in `Index` view file and modifying form fields *(Added dropdown menu `[Select]`)*  
+
+### 1535  
+- Run the modified code and check if it works – ✅ *Success*  
+
+---
+
+**Date:** 2025-01-29  
+
+---
+
+### 0839  
+- Modified the `Movie` Model  
+
+### 0854  
+- Added `Rating` field in `Index`, `Edit`, `Create`, `Delete`, `Details`  
+
+### 0912  
+- Updating the database table  
+
+### 0922  
+- `20250129142029_Rating` migration ran successfully  
+
+### 0955  
+- Run the modified code and check if it works – ✅ *Success*  
