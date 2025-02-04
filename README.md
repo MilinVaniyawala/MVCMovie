@@ -203,3 +203,27 @@
 
 ### 0955  
 - Run the modified code and check if it works – ✅ *Success*  
+
+---
+
+**Date:** 2025-02-04  
+
+---
+
+### 1139  
+- Modify in Movie Model  
+
+### 1140  
+- Run the modify code and check if it works or not, it's working successfully  
+
+### 1155  
+- Modify in Movie Model  
+
+### 1200  
+- Run the modify code and check if it works or not, it's working successfully  
+
+### 1219  
+- Changes in Delete Method Post Type in Movie Controller  
+
+### 1220  
+- Run the modify code and check if it works or not, it's working successfully  
