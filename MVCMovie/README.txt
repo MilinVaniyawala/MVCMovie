@@ -125,3 +125,17 @@ VS Community 2022 17.12.0
 - 20250129142029_Rating migration runs successfully
 0955
 - Run the modify code and check is that works or not, it's working successfully
+
+2025-02-04
+1139
+- Modify in Movie Model
+1140
+- Run the modify code and check is that works or not, it's working successfully
+1155
+- Modify in Movie Model
+1200
+- Run the modify code and check is that works or not, it's working successfully
+1219
+- Changes in Delete Method Post Type in Movie Controller
+1220
+- Run the modify code and check is that works or not, it's working successfully
